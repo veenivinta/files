@@ -1,0 +1,1974 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02588,21.61751 ]
+    },
+    "properties": {
+    "Polling_Booths":1,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02588,21.61751 ]
+    },
+    "properties": {
+    "Polling_Booths":2,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.27506,21.61493 ]
+    },
+    "properties": {
+    "Polling_Booths":3,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.07063,21.61415 ]
+    },
+    "properties": {
+    "Polling_Booths":4,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.08362,21.61752 ]
+    },
+    "properties": {
+    "Polling_Booths":5,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.09442,21.62732 ]
+    },
+    "properties": {
+    "Polling_Booths":6,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.09278,21.61398 ]
+    },
+    "properties": {
+    "Polling_Booths":7,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.09834,21.60627 ]
+    },
+    "properties": {
+    "Polling_Booths":8,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":9,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.41207,21.69332 ]
+    },
+    "properties": {
+    "Polling_Booths":10,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02901,21.60678 ]
+    },
+    "properties": {
+    "Polling_Booths":11,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.77397,21.24911 ]
+    },
+    "properties": {
+    "Polling_Booths":12,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.004791,21.607229 ]
+    },
+    "properties": {
+    "Polling_Booths":13,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.94079,21.57167 ]
+    },
+    "properties": {
+    "Polling_Booths":14,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.75034,21.35488 ]
+    },
+    "properties": {
+    "Polling_Booths":15,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.01758,21.60285 ]
+    },
+    "properties": {
+    "Polling_Booths":16,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02737,21.60668 ]
+    },
+    "properties": {
+    "Polling_Booths":17,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02544,21.60829 ]
+    },
+    "properties": {
+    "Polling_Booths":18,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.03739,21.60688 ]
+    },
+    "properties": {
+    "Polling_Booths":19,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06354,21.59344 ]
+    },
+    "properties": {
+    "Polling_Booths":20,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06871,21.59172 ]
+    },
+    "properties": {
+    "Polling_Booths":21,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.08731,21.59049 ]
+    },
+    "properties": {
+    "Polling_Booths":22,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.08671,21.59803 ]
+    },
+    "properties": {
+    "Polling_Booths":23,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":24,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.09286,21.58743 ]
+    },
+    "properties": {
+    "Polling_Booths":25,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.11752,21.59256 ]
+    },
+    "properties": {
+    "Polling_Booths":26,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.88036,21.29387 ]
+    },
+    "properties": {
+    "Polling_Booths":27,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.1131,21.54844 ]
+    },
+    "properties": {
+    "Polling_Booths":28,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.64607,21.09038 ]
+    },
+    "properties": {
+    "Polling_Booths":29,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06237,21.57404 ]
+    },
+    "properties": {
+    "Polling_Booths":30,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.03702,21.5689 ]
+    },
+    "properties": {
+    "Polling_Booths":31,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.04637,21.57696 ]
+    },
+    "properties": {
+    "Polling_Booths":32,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.03906,21.58107 ]
+    },
+    "properties": {
+    "Polling_Booths":33,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.03906,21.58107 ]
+    },
+    "properties": {
+    "Polling_Booths":34,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":35,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.99511,21.58921 ]
+    },
+    "properties": {
+    "Polling_Booths":36,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.00128,21.57566 ]
+    },
+    "properties": {
+    "Polling_Booths":37,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.29493,21.77369 ]
+    },
+    "properties": {
+    "Polling_Booths":38,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.47273,21.32472 ]
+    },
+    "properties": {
+    "Polling_Booths":39,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.14974,21.58399 ]
+    },
+    "properties": {
+    "Polling_Booths":40,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06099,21.56047 ]
+    },
+    "properties": {
+    "Polling_Booths":41,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.646072,21.09038 ]
+    },
+    "properties": {
+    "Polling_Booths":42,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":43,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.113098,21.548441 ]
+    },
+    "properties": {
+    "Polling_Booths":44,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":45,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.13634,21.56304 ]
+    },
+    "properties": {
+    "Polling_Booths":46,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.13634,21.56304 ]
+    },
+    "properties": {
+    "Polling_Booths":47,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.89744,21.53197 ]
+    },
+    "properties": {
+    "Polling_Booths":48,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":49,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":50,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.923943,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":51,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.923943,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":52,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.923943,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":53,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.923943,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":54,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":55,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.923943,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":56,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":57,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.83702,21.57305 ]
+    },
+    "properties": {
+    "Polling_Booths":58,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":59,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06801,21.54543 ]
+    },
+    "properties": {
+    "Polling_Booths":60,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.43828,21.61457 ]
+    },
+    "properties": {
+    "Polling_Booths":61,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.49836,21.22371 ]
+    },
+    "properties": {
+    "Polling_Booths":62,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.00729,21.53324 ]
+    },
+    "properties": {
+    "Polling_Booths":63,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.99982,21.55116 ]
+    },
+    "properties": {
+    "Polling_Booths":64,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9969,21.55428 ]
+    },
+    "properties": {
+    "Polling_Booths":65,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.97648,21.55528 ]
+    },
+    "properties": {
+    "Polling_Booths":66,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":67,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.24757,21.5765 ]
+    },
+    "properties": {
+    "Polling_Booths":68,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.2407,21.68179 ]
+    },
+    "properties": {
+    "Polling_Booths":69,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.28193,21.63455 ]
+    },
+    "properties": {
+    "Polling_Booths":70,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.95397,21.53793 ]
+    },
+    "properties": {
+    "Polling_Booths":71,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.96408,21.53368 ]
+    },
+    "properties": {
+    "Polling_Booths":72,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06801,21.54543 ]
+    },
+    "properties": {
+    "Polling_Booths":73,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":74,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":75,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.69051,21.33657 ]
+    },
+    "properties": {
+    "Polling_Booths":76,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.85746,21.56068 ]
+    },
+    "properties": {
+    "Polling_Booths":77,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.96772,21.52971 ]
+    },
+    "properties": {
+    "Polling_Booths":78,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":79,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.95102,21.50619 ]
+    },
+    "properties": {
+    "Polling_Booths":80,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.96434,21.50615 ]
+    },
+    "properties": {
+    "Polling_Booths":81,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.98468,21.5111 ]
+    },
+    "properties": {
+    "Polling_Booths":82,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":83,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.951019,21.506189 ]
+    },
+    "properties": {
+    "Polling_Booths":84,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02166,21.52297 ]
+    },
+    "properties": {
+    "Polling_Booths":85,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.85433,21.57919 ]
+    },
+    "properties": {
+    "Polling_Booths":86,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06801,21.54543 ]
+    },
+    "properties": {
+    "Polling_Booths":87,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.05923,21.52254 ]
+    },
+    "properties": {
+    "Polling_Booths":88,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.72808,21.3351 ]
+    },
+    "properties": {
+    "Polling_Booths":89,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.72808,21.3351 ]
+    },
+    "properties": {
+    "Polling_Booths":90,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.72808,21.3351 ]
+    },
+    "properties": {
+    "Polling_Booths":91,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.10286,21.50508 ]
+    },
+    "properties": {
+    "Polling_Booths":92,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.10286,21.50508 ]
+    },
+    "properties": {
+    "Polling_Booths":93,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.80772,21.26414 ]
+    },
+    "properties": {
+    "Polling_Booths":94,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.2407,21.68179 ]
+    },
+    "properties": {
+    "Polling_Booths":95,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.2407,21.68179 ]
+    },
+    "properties": {
+    "Polling_Booths":96,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.2407,21.68179 ]
+    },
+    "properties": {
+    "Polling_Booths":97,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.2407,21.68179 ]
+    },
+    "properties": {
+    "Polling_Booths":98,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.06185,21.4832 ]
+    },
+    "properties": {
+    "Polling_Booths":99,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.68555,21.306 ]
+    },
+    "properties": {
+    "Polling_Booths":100,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.04022,21.50736 ]
+    },
+    "properties": {
+    "Polling_Booths":101,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":102,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.52351,21.28629 ]
+    },
+    "properties": {
+    "Polling_Booths":103,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.99918,21.48777 ]
+    },
+    "properties": {
+    "Polling_Booths":104,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02635,21.63752 ]
+    },
+    "properties": {
+    "Polling_Booths":105,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.97131,21.49242 ]
+    },
+    "properties": {
+    "Polling_Booths":106,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.95428,21.49244 ]
+    },
+    "properties": {
+    "Polling_Booths":107,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.96113,21.48626 ]
+    },
+    "properties": {
+    "Polling_Booths":108,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.96113,21.48626 ]
+    },
+    "properties": {
+    "Polling_Booths":109,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.96113,21.48626 ]
+    },
+    "properties": {
+    "Polling_Booths":110,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.94555,21.4773 ]
+    },
+    "properties": {
+    "Polling_Booths":111,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93542,21.53242 ]
+    },
+    "properties": {
+    "Polling_Booths":112,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.90935,21.40465 ]
+    },
+    "properties": {
+    "Polling_Booths":113,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.909348,21.40465 ]
+    },
+    "properties": {
+    "Polling_Booths":114,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.45859,21.65905 ]
+    },
+    "properties": {
+    "Polling_Booths":115,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.4231,21.30197 ]
+    },
+    "properties": {
+    "Polling_Booths":116,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.4231,21.30197 ]
+    },
+    "properties": {
+    "Polling_Booths":117,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.94116,21.49696 ]
+    },
+    "properties": {
+    "Polling_Booths":118,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.45859,21.65905 ]
+    },
+    "properties": {
+    "Polling_Booths":119,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.943604,21.49139 ]
+    },
+    "properties": {
+    "Polling_Booths":120,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.47818,21.27671 ]
+    },
+    "properties": {
+    "Polling_Booths":121,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.941162,21.49696 ]
+    },
+    "properties": {
+    "Polling_Booths":122,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93452,21.49945 ]
+    },
+    "properties": {
+    "Polling_Booths":123,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93452,21.49945 ]
+    },
+    "properties": {
+    "Polling_Booths":124,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93452,21.49945 ]
+    },
+    "properties": {
+    "Polling_Booths":125,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93452,21.49945 ]
+    },
+    "properties": {
+    "Polling_Booths":126,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.19764,21.83713 ]
+    },
+    "properties": {
+    "Polling_Booths":127,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.19764,21.83713 ]
+    },
+    "properties": {
+    "Polling_Booths":128,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92888,21.50705 ]
+    },
+    "properties": {
+    "Polling_Booths":129,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92888,21.50705 ]
+    },
+    "properties": {
+    "Polling_Booths":130,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":131,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":132,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":133,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.91845,21.49902 ]
+    },
+    "properties": {
+    "Polling_Booths":134,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9142,21.50898 ]
+    },
+    "properties": {
+    "Polling_Booths":135,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":136,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9142,21.50898 ]
+    },
+    "properties": {
+    "Polling_Booths":137,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9142,21.50898 ]
+    },
+    "properties": {
+    "Polling_Booths":138,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9142,21.50898 ]
+    },
+    "properties": {
+    "Polling_Booths":139,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9142,21.50898 ]
+    },
+    "properties": {
+    "Polling_Booths":140,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.918449,21.49902 ]
+    },
+    "properties": {
+    "Polling_Booths":141,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.203,28.61828 ]
+    },
+    "properties": {
+    "Polling_Booths":142,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.74107,21.95621 ]
+    },
+    "properties": {
+    "Polling_Booths":143,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.74107,21.95621 ]
+    },
+    "properties": {
+    "Polling_Booths":144,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.74107,21.95621 ]
+    },
+    "properties": {
+    "Polling_Booths":145,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93174,21.48429 ]
+    },
+    "properties": {
+    "Polling_Booths":146,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":147,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":148,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.69983,21.99118 ]
+    },
+    "properties": {
+    "Polling_Booths":149,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.69983,21.99118 ]
+    },
+    "properties": {
+    "Polling_Booths":150,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.69983,21.99118 ]
+    },
+    "properties": {
+    "Polling_Booths":151,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.69983,21.99118 ]
+    },
+    "properties": {
+    "Polling_Booths":152,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92906,21.49162 ]
+    },
+    "properties": {
+    "Polling_Booths":153,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":154,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.929062,21.491619 ]
+    },
+    "properties": {
+    "Polling_Booths":155,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":156,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.929062,21.491619 ]
+    },
+    "properties": {
+    "Polling_Booths":157,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":158,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93052,21.48917 ]
+    },
+    "properties": {
+    "Polling_Booths":159,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.74646,21.92177 ]
+    },
+    "properties": {
+    "Polling_Booths":160,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93797,21.48595 ]
+    },
+    "properties": {
+    "Polling_Booths":161,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93876,21.48862 ]
+    },
+    "properties": {
+    "Polling_Booths":162,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.93797,21.48595 ]
+    },
+    "properties": {
+    "Polling_Booths":163,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.47818,21.276711 ]
+    },
+    "properties": {
+    "Polling_Booths":164,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.943604,21.49139 ]
+    },
+    "properties": {
+    "Polling_Booths":165,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.47818,21.276711 ]
+    },
+    "properties": {
+    "Polling_Booths":166,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.74646,21.92177 ]
+    },
+    "properties": {
+    "Polling_Booths":167,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":168,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.945549,21.477301 ]
+    },
+    "properties": {
+    "Polling_Booths":169,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":170,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.945549,21.477301 ]
+    },
+    "properties": {
+    "Polling_Booths":171,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.72539,25.85765 ]
+    },
+    "properties": {
+    "Polling_Booths":172,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":173,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.02451,21.50301 ]
+    },
+    "properties": {
+    "Polling_Booths":174,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.923943,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":175,
+    "supporter":"Unlikely to Support"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.945549,21.477301 ]
+    },
+    "properties": {
+    "Polling_Booths":176,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.961128,21.486259 ]
+    },
+    "properties": {
+    "Polling_Booths":177,
+    "supporter":"Likely Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.961128,21.486259 ]
+    },
+    "properties": {
+    "Polling_Booths":178,
+    "supporter":"Potential Supporter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.92394,21.50136 ]
+    },
+    "properties": {
+    "Polling_Booths":179,
+    "supporter":"Likely Supporter"
+    }
+  }
+]
+}
