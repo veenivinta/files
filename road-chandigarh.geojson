@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "LineString",
+                "type": "PointString",
                 "coordinates": [
                     [
                         76.66656389043902,
