@@ -1,0 +1,194 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Display a map</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js"></script>
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css" rel="stylesheet" />
+
+  <style>
+    body,
+    html {
+      height: 100%;
+      margin: 0
+    }
+    #map {
+      width: 100%;
+      height: 100%;
+      background: whitesmoke;
+    }
+    #extrude {
+      position: absolute;
+      top: 110px;
+      right: 10px;
+      z-index: 9999;
+      border-radius: 2px;
+      background: white;
+      width: 30px;
+      padding: 7px 0;
+      text-align: center;
+      display: block;
+      font-size: larger;
+      cursor: pointer;
+    }
+    .active {
+      font-weight: bold;
+      color: orange;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="map">
+    <div id="extrude">
+      3D
+    </div>
+  </div>
+  <script>
+    //6/39.212/-81.651/-23.2/60
+    var view2 = {center: [81.993,  23.210], zoom: 5, bearing: -60, pitch: 60, speed: 0.2, curve: 0.9};
+    var view1 = {center: [85.753, 20.259], zoom: 4, bearing: 0, pitch: 0, speed: 0.5, curve: 0.5};
+	mapboxgl.accessToken = 'pk.eyJ1IjoiaGJzIiwiYSI6InBPOEpMN0EifQ.ZNJuQKK1Rlj5aCaVh_Pa7Q';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      hash: true,
+      //style: 'https://www.ovrdc.org/apps/assets/mapboxgl/openmaptiles/osm-bright/style.json',
+      style: 'mapbox://styles/hbs/cjpz4lny84opn2rqaev0mnyhs',
+      center: [-95.52, 39.94],
+      zoom: 4,
+      debug: 1
+    });
+    map.addControl(new mapboxgl.NavigationControl());
+    map.on('style.load', function() {
+      map.flyTo(view1);
+      map.addSource('India-pc', {
+        'type': 'geojson',
+        'data': 'https://raw.githubusercontent.com/veenivinta/files/master/2014-India.geojson' });
+      map.addLayer({
+        'id': 'flat',
+        'type': 'fill',
+        'source': 'India-pc',
+        'layout': {
+          'visibility': 'visible'
+        },
+        'paint': {
+          'fill-color': {
+            'property': 'VOTES_RANK_1',
+            'stops': [
+              [40, 'yellow'],
+              [50, 'orange'],
+              [60, 'firebrick']
+            ]
+          },
+          'fill-outline-color': 'white',
+          'fill-opacity': 0.9
+        }
+      });
+      // this would be different for mapbox styles
+      map.addLayer({
+        'id': 'extruded',
+        'type': 'fill-extrusion',
+        'source': 'India-pc',
+        'layout': {
+          'visibility': 'none'
+        },
+        'paint': {
+          'fill-extrusion-color': {
+            'property': 'VOTES_RANK_1',
+            'stops': [
+              [40, 'yellow'],
+              [50, 'orange'],
+              [60, 'firebrick']
+            ]
+          },
+          'fill-extrusion-height': {
+            "property": 'VOTES_RANK_1',
+            "stops": [
+              [40, 30000],
+              [50, 80000],
+              [60, 400000]
+            ]
+          },
+          'fill-extrusion-opacity': 0.9,
+          'fill-extrusion-base': 0
+        }
+      }); // this would be different for mapbox styles
+      var ex = document.getElementById('extrude');
+      ex.addEventListener('click', function() {
+        if ( (map.getLayoutProperty('flat', 'visibility')) === 'visible') {
+          map.setLayoutProperty('extruded', 'visibility', 'visible');
+          ex.className = 'active';
+          setTimeout(function() {
+            map.flyTo(view2);
+            map.setLayoutProperty('flat', 'visibility', 'none');
+          }, 2000);
+        }else{
+          map.setLayoutProperty('flat', 'visibility', 'visible');
+          map.setLayoutProperty('extruded', 'visibility', 'none');
+          ex.className = '';
+          map.flyTo(view1);
+        }
+      });
+    });
+    var x = 0;
+    var y = 0;
+    var v2;
+    map.on('data', function() {
+      x = x + 1;
+    });
+    
+    function logData() {
+      console.log(x);
+      y = y+1;
+      v2 = setTimeout(checkData, 1000);
+    };
+    
+    var myVar = setInterval(logData, 10);
+    
+    function checkData() {
+      if (y > x) {
+        console.log(true);
+        clearInterval(myVar);
+        clearInterval(v2);
+      }
+    }                            
+      /*Query with Popup and tooltip example*/
+
+var popup = new mapboxgl.Popup({
+  closeButton: false,
+  closeOnClick: false
+});
+
+function identifyFeatures(location, layer, fields) {
+  var identifiedFeatures = map.queryRenderedFeatures(location.point, layer);
+  /*console.log(identifiedFeatures);*/
+  popup.remove();
+  if (identifiedFeatures != '') {
+    var popupText = "";
+    for (i = 0; i < fields.length; i++) {
+      popupText += "<strong>" + fields[i] + ":</strong> " + identifiedFeatures[0].properties[fields[i]] + "<" + "br" + ">"
+    };
+    popup.setLngLat(location.lngLat)
+      .setHTML(popupText)
+      .addTo(map);
+  }
+}
+
+map.on('click', function(e) {
+  identifyFeatures(e, 'countiesLayer', ["VOTES_RANK_1", "PC_NAME", "First Party","Second Party", "Runner up Party", "Second Runner up Party"])
+});
+
+map.on('mousemove', function(e) {
+  identifyFeatures(e, 'countiesLayer', ["VOTES_RANK_1", "PC_NAME", "First Party","Second Party", "Runner up Party", "Second Runner up Party"])
+});
+
+/*End popup and tooltip example*/
+
+
+  </script>
+</body>
+
+</html>
