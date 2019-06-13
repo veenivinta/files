@@ -1,0 +1,49 @@
+// JSON Document
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#000",
+        "stroke-width": 5,
+        "id": 1,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.34374999999999,
+            23.40276490540795
+          ],
+          [
+            96.591796875,
+            21.616579336740603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       "stroke": "red",
+        "stroke-width": 10,
+        "id": 1,
+        "stroke-opacity": 1},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.36572265625,
+            23.41284706430993
+          ],
+          [
+            80.7275390625,
+            7.27529233637217
+          ]
+        ]
+      }
+    }
+  ]
+}
