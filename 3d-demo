@@ -1,0 +1,24 @@
+{
+      "type": "FeatureCollection",
+      "features": [{
+        "id": 1,
+        "type": "Feature",
+        "properties": {
+          "frequency": 44
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.858369,30.900462]
+        }
+      }, {
+        "id": 2,
+        "type": "Feature",
+        "properties": {
+          "frequency": 200
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [75.858369,31.900462]
+        }
+      }]
+    }
